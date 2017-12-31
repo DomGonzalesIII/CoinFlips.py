@@ -1,5 +1,3 @@
-# coinFlips
-# First try given program description before viewing code
 """
 import random
 
